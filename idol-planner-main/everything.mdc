@@ -1,0 +1,10 @@
+---
+description: General prototyping rules
+globs: *
+---
+Respect these rules while implementing code:
+
+* Use Yarn v2 PnP for package management
+* Repo scripts can be found in [package.json](mdc:package.json)
+* Types should be stored in [types.ts](mdc:src/types.ts)
+* Use tailwind for styles
